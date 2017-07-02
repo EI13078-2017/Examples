@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1403407890 source:e:\快盘\教学工作\c语言实践课\c_c++示例\file\fprintf_fscanf\demo_fscanf\main.c
+	<stdio.h>
+	<stdlib.h>
+
